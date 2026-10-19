@@ -10,6 +10,7 @@ Ernest Kosmatko to specjalista ds. cyberbezpieczeństwa z Poznania (Polska). W c
 
 - [NetRecon](https://github.com/Ernest-Kosmatko/Netrecon): Skaner rekonesansu sieci i podatności CVE w Pythonie.
 - [Hcx](https://github.com/Ernest-Kosmatko/Hcx): Warstwa orkiestracji dla hashcata — zarządzanie zadaniami, raporty, strojenie.
+- [SiegeGraph](https://github.com/Ernest-Kosmatko/SiegeGraph): Mapowanie ścieżek ataku i zarządzanie dowodami dla autoryzowanych testów penetracyjnych.
 
 ## Certyfikaty
 
