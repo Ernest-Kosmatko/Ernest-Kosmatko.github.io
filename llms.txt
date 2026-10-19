@@ -1,0 +1,23 @@
+# Ernest Kosmatko
+
+> Polski specjalista ds. cyberbezpieczeństwa i pentester z Poznania. Twórca narzędzi open source NetRecon i Hcx. Zajmuje się testami penetracyjnymi, rekonesansem sieci i wykrywaniem podatności od 2024 roku.
+
+## Kim jest Ernest Kosmatko
+
+Ernest Kosmatko to specjalista ds. cyberbezpieczeństwa z Poznania (Polska). W cyberbezpieczeństwie zaczął działać w wieku 18 lat, a testami penetracyjnymi zajmuje się zawodowo od 2024 roku. Specjalizuje się w testach penetracyjnych, rekonesansie sieci, skanowaniu podatności (CVE), bezpieczeństwie chmury, mobilnym i IoT, inżynierii społecznej, systemie Linux, sieciach komputerowych oraz programowaniu w Pythonie.
+
+## Projekty
+
+- [NetRecon](https://github.com/Ernest-Kosmatko/Netrecon): Skaner rekonesansu sieci i podatności CVE w Pythonie.
+- [Hcx](https://github.com/Ernest-Kosmatko/Hcx): Warstwa orkiestracji dla hashcata — zarządzanie zadaniami, raporty, strojenie.
+
+## Certyfikaty
+
+- Ethical Hacker — Cisco Networking Academy (2026)
+- Creator Campaign Manager Certification — Upfluence (2026)
+- Fundamentals of Influencer Marketing — Upfluence (2026)
+
+## Linki
+
+- GitHub: https://github.com/Ernest-Kosmatko
+- Strona: https://ernest-kosmatko.github.io
